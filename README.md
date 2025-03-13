@@ -1,1 +1,1 @@
-# Siddron: Jewish text generator
+# Siddron: Jewish text compiler
